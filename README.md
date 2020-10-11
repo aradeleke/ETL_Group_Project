@@ -1,8 +1,6 @@
 # ETL_Group_Project
 
-U.S unemployment insurance claims and rates
-
-![labor.jpg](static/images/labor.jpg)
+U.S unemployment insurance claims and rates 
 
 Data sources
 Bureau of Labor Statistics
