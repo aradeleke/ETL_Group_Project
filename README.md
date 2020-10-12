@@ -2,6 +2,8 @@
 
 U.S unemployment insurance claims and rates 
 
+![labor.jpg](Static/images/labor.jpg
+
 Data sources
 Bureau of Labor Statistics
 •	https://www.bls.gov/news.release/laus.nr0.htm
