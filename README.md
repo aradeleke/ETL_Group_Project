@@ -1,6 +1,7 @@
 # ETL_Group_Project
 
-![labor.jpg](static/images/labor.jpg)
+
+![bureau_labor.jpg](static/images/bureau_labor.jpg)
 
 U.S unemployment insurance claims and rates
 
